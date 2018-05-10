@@ -1,2 +1,2 @@
-# Azure Location Based Services Samples
+# Azure Maps samples
 
